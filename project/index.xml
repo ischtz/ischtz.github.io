@@ -5,12 +5,28 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Research Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Oct 2020 12:56:01 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Current Research Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Eye Gaze for Natural Interactions</title>
+      <link>/project/gaze-interaction/</link>
+      <pubDate>Tue, 20 Oct 2020 12:56:01 +0200</pubDate>
+      <guid>/project/gaze-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaze Fixations in Natural Scenes</title>
+      <link>/project/natural-scene-fixations/</link>
+      <pubDate>Tue, 20 Oct 2020 12:54:41 +0200</pubDate>
+      <guid>/project/natural-scene-fixations/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

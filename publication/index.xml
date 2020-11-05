@@ -5,12 +5,100 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Peer-Reviewed Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Peer-Reviewed Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>A Psychophysics-inspired Model of Gaze Selection Performance</title>
+      <link>/publication/etra-2020-psychophysics/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/etra-2020-psychophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset for Eye Tracking on a Virtual Reality Platform</title>
+      <link>/publication/etra-2020-dataset-eye-tracking/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/etra-2020-dataset-eye-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Explanation of Fitts&#39; Law-like Performance in Gaze-Based Selection Tasks Using a Psychophysics Approach</title>
+      <link>/publication/chi-2019-fitts-like-performance/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chi-2019-fitts-like-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous flash suppression: Manual action affects eye movements but not the reported percept</title>
+      <link>/publication/jov-2018-cfp/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/jov-2018-cfp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Awareness in Binocular Rivalry Modulates Induced Pupil Fluctuations</title>
+      <link>/publication/joc-2018-pupil-fluctuations/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/joc-2018-pupil-fluctuations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How well can saliency models predict fixation selection in scenes beyond central bias? A new approach to model evaluation using generalized linear mixed models</title>
+      <link>/publication/fnhum-2017-glmm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/fnhum-2017-glmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allocentric information is used for memory-guided reaching in depth: A virtual reality study</title>
+      <link>/publication/visres-2016-reaching-depth/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/visres-2016-reaching-depth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Correlates of Human Echolocation of Path Direction During Walking</title>
+      <link>/publication/multsens-2015-echolocation/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/multsens-2015-echolocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No effect of delay on the spatial representation of serial reach targets</title>
+      <link>/publication/ebr-2015-serial-reach-targets/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ebr-2015-serial-reach-targets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaze-centered spatial updating in delayed reaching even in the presence of landmarks</title>
+      <link>/publication/visres-2013-delayed-reaching/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/visres-2013-delayed-reaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaze-centered spatial updating of reach targets across different memory delays</title>
+      <link>/publication/visres-2011-memory-delays/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/visres-2011-memory-delays/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

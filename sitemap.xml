@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/project/</loc>
+    <lastmod>2020-10-20T12:56:01+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/gaze-interaction/</loc>
     <lastmod>2020-10-20T12:56:01+02:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2020-10-20T17:23:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2020-10-20T12:56:01+02:00</lastmod>
   </url>
   
   <url>
@@ -38,12 +38,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/publication/</loc>
     <lastmod>2020-10-20T17:23:52+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2020-10-20T17:23:52+02:00</lastmod>
   </url>
   
@@ -98,19 +98,11 @@
   </url>
   
   <url>
-    <loc>/index.html</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>/project/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/immo-schuetz/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
+    <loc>/authors/admin/</loc>
   </url>
   
 </urlset>
